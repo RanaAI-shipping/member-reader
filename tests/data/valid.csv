@@ -1,0 +1,5 @@
+id,first_name,last_name,email,gender,ip_address
+1,Ada,Lovelace,ada@example.com,Female,192.0.2.1
+2,Alan,Turing,alan@example.org,Male,2001:db8::1
+3,Grace,Hopper,grace@Example.com,Female,198.51.100.7
+4,Sam,Rivera,sam@example.net,Non-binary,203.0.113.42
